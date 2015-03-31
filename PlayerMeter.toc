@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: PlayerMeter
+## Author: rexas (rexas@g33k.se)
+## Notes: PlayerMeter
+## SavedVariablesPerCharacter: PM_Settings
+PlayerMeter.lua
+PlayerMeter.xml
+PlayerMeter_UI_Core.lua
+PlayerMeter_UI_Settings.lua
+PlayerMeter_UI_History.lua
+PlayerMeter_UI_DamageMeter.lua
